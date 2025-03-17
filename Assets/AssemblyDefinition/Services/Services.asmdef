@@ -1,0 +1,18 @@
+{
+    "name": "Services",
+    "rootNamespace": "",
+    "references": [ "UnityEngine",
+        "GUID:58f9e84519a74064eb439f35264a27e1",
+        "GUID:52b3bff7d2f939048857f392b6363660",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

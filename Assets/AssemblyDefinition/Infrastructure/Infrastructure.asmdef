@@ -1,0 +1,4 @@
+{
+	"name": "Infrastructure",
+	"references":[ "GUID:d58ad461da688864e8ab8e37fc63134b", "GUID:2bf0e039d564b3847992ea771926e1f6", "GUID:9338d1cfb86f30d44ab91854424ba2d9", "GUID:b5572b0cfc740d4409cbea271ad37868" ]
+}

@@ -1,0 +1,4 @@
+{
+	"name": "UI",
+	"references": ["Unity.TextMeshPro", "GUID:58f9e84519a74064eb439f35264a27e1", "GUID:9338d1cfb86f30d44ab91854424ba2d9", "GUID:2bf0e039d564b3847992ea771926e1f6" ]
+}
